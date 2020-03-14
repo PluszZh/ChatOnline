@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+  thymeleaf:
+    cache: false
+    mode: LEGACYHTML5
+  mvc:
+    favicon:
+      enabled: false
+
